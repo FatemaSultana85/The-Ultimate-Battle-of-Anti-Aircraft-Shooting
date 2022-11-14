@@ -1,0 +1,38 @@
+﻿Build started 2/13/2019 9:10:55 PM.
+     1>Project "F:\iGFX\iGraphicsUltimate\iGraphics Project\iGraphics Project\iGraphics Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\iGraphics Project.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\time\time\time.cpp
+         time.cpp
+     1>f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(30): error C2084: function 'void iShowBMPAlternative2(int,int,char [],int)' already has a body
+                 f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(29) : see previous definition of 'iShowBMPAlternative2'
+     1>f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(86): error C2084: function 'void iShowBMPAlternative(int,int,char [])' already has a body
+                 f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(85) : see previous definition of 'iShowBMPAlternative'
+     1>f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(87): error C3861: 'iShowBMPAlternative2': identifier not found
+     1>f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(91): error C2084: function 'void iShowBMPAlternativeSkipBlack(int,int,char [])' already has a body
+                 f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(90) : see previous definition of 'iShowBMPAlternativeSkipBlack'
+     1>f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(92): error C3861: 'iShowBMPAlternative2': identifier not found
+     1>f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(96): error C2084: function 'void iShowBMPAlternativeSkipRed(int,int,char [])' already has a body
+                 f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(95) : see previous definition of 'iShowBMPAlternativeSkipRed'
+     1>f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(97): error C3861: 'iShowBMPAlternative2': identifier not found
+     1>f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(101): error C2084: function 'void iShowBMPAlternativeSkipGreen(int,int,char [])' already has a body
+                 f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(100) : see previous definition of 'iShowBMPAlternativeSkipGreen'
+     1>f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(102): error C3861: 'iShowBMPAlternative2': identifier not found
+     1>f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(106): error C2084: function 'void iShowBMPAlternativeSkipBlue(int,int,char [])' already has a body
+                 f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(105) : see previous definition of 'iShowBMPAlternativeSkipBlue'
+     1>f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(107): error C3861: 'iShowBMPAlternative2': identifier not found
+     1>f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(111): error C2084: function 'void iShowBMPAlternativeSkipWhite(int,int,char [])' already has a body
+                 f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(110) : see previous definition of 'iShowBMPAlternativeSkipWhite'
+     1>f:\igfx\igraphicsultimate\time\time\bitmap_loader.h(112): error C3861: 'iShowBMPAlternative2': identifier not found
+     1>f:\igfx\igraphicsultimate\time\time\time.cpp(7): error C2086: 'int pic_x' : redefinition
+                 f:\igfx\igraphicsultimate\time\time\myheader.h(4) : see declaration of 'pic_x'
+     1>f:\igfx\igraphicsultimate\time\time\time.cpp(7): error C2086: 'int pic_y' : redefinition
+                 f:\igfx\igraphicsultimate\time\time\myheader.h(4) : see declaration of 'pic_y'
+     1>f:\igfx\igraphicsultimate\time\time\time.cpp(9): error C2086: 'int dx' : redefinition
+                 f:\igfx\igraphicsultimate\time\time\myheader.h(5) : see declaration of 'dx'
+     1>Done Building Project "F:\iGFX\iGraphicsUltimate\iGraphics Project\iGraphics Project\iGraphics Project.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.53

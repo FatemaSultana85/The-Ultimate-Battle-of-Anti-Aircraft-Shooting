@@ -4,6 +4,9 @@ The Ultimate Battle of Anti Aircraft Shooting
 ### Description:
 To advance level, immerse yourself in a war at the hands of an anti-aircraft machine gun and destroy the enemies before they destroy you.
 
+This game consist of following things:
+Player,Enemies,Objects,Obstacles,Bullets,Attack,Collision,Upgrading to levels,Different backgrounds,Score count, Avoid death points,Game over.
+
 ### Language:
 C and igraphics
 

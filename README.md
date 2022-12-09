@@ -1,6 +1,9 @@
 ### Project Title:
 The Ultimate Battle of Anti Aircraft Shooting
 
+### Description:
+To advance level, immerse yourself in a war at the hands of an anti-aircraft machine gun and destroy the enemies before they destroy you.
+
 ### Language:
 C and igraphics
 
